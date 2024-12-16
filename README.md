@@ -15,7 +15,8 @@ Here’s a preview of the app in different themes:
 
 | **Light Theme** | **Dark Theme** | **App in Action (GIF)** |
 |-----------------|----------------|-------------------------|
-| <img src="https://github.com/user-attachments/assets/68a4ea19-8be1-4ee8-ba2c-c305bfcf8793" width="300" alt="Neumorphism Light Theme Screenshot"/> | <img src="https://github.com/user-attachments/assets/feb7e889-b117-4db8-b0e3-8b602024cbe9" width="300" alt="Neumorphism Dark Theme Screenshot"/> | <img src="https://github.com/user-attachments/assets/58627114-4f20-44f4-bafd-92e8d61c868c" width="300" alt="Neumorphism Theme Toggle GIF"/> |
+| <img src="https://github.com/user-attachments/assets/68a4ea19-8be1-4ee8-ba2c-c305bfcf8793" height="400" alt="Neumorphism Light Theme Screenshot"/> | <img src="https://github.com/user-attachments/assets/feb7e889-b117-4db8-b0e3-8b602024cbe9" height="400" alt="Neumorphism Dark Theme Screenshot"/> | <img src="https://github.com/user-attachments/assets/58627114-4f20-44f4-bafd-92e8d61c868c" height="400" alt="Neumorphism Theme Toggle GIF"/> |
+
 
 ## Getting Started
 
